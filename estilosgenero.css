@@ -1,0 +1,35 @@
+.generos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxgen{
+    margin: 30px;
+    height: 225px;
+    width: 325px;
+    background-color:rgba(0, 0, 0, 0.9);
+    font-family: fantasy;
+    font-size: 75px;
+    text-align: center;
+    line-height: 225px;
+    border-radius: 20px;
+    color:white;
+    transition: 0.5s;
+}
+.boxgen:hover{
+    text-shadow: 0px 0px 5px;
+}
+.shonen:hover{
+    color:yellow;
+}
+.komodo:hover{
+    color:rgb(0, 174, 255);
+}
+.shojo:hover{
+    color:rgb(255, 0, 225);
+}
+.seinen:hover{
+    color:rgb(0, 255, 55);
+}
+.josei:hover{
+    color:rgb(255, 0, 0);
+}

@@ -1,0 +1,75 @@
+.remi{
+    background-image: url("imagenesanime/Remi.png");
+    background-size: auto 100%;
+    background-color: bisque
+}
+.digimon{
+    background-image: url("imagenesanime/digimon.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}
+.romeo{
+    background-image: url("imagenesanime/romeo.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}
+.anne{
+    background-image: url("imagenesanime/anne.png");
+    background-size:  170% auto;
+    background-position: center;
+    background-color: bisque
+}
+.treasure{
+    background-image: url("imagenesanime/treasure.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}
+.deno{
+    background-image: url("imagenesanime/denno.png");
+    background-size:  100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}
+.pokemon{
+    background-image: url("imagenesanime/pokemon.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.inazuma{
+    background-image: url("imagenesanime/inazuma.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gamba{
+    background-image: url("imagenesanime/gamba.png");
+    background-size: auto 100% ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.mado{
+    background-image: url("imagenesanime/mado.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.wataru{
+    background-image: url("imagenesanime/wataru.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.doraemon{
+    background-image: url("imagenesanime/doraemon.png");
+    background-size: auto 100% ;
+    background-repeat: no-repeat;
+    background-position: center;
+}

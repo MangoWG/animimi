@@ -1,0 +1,102 @@
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+.iniciomas{
+    position:absolute;
+    margin-top: 600px;
+    width: 80%;
+    display:flex;
+}
+.verahora{
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.verahoratitulo{
+    font-family: fantasy;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 0px 0px 1px;
+}
+.favjapon{
+    height: auto;
+    flex-basis: 30%;
+    font-family: fantasy;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+    text-shadow: 0px 0px 1px;
+}
+.favjapon img{
+    width: 100%;
+}
+
+
+
+
+.titulonoticiero{
+    position: absolute;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-top: 50px;
+    color:rgb(86, 86, 86);
+    text-shadow: 0px 0px 3px;
+}
+.noticiero{
+    position: absolute;
+    margin-top: 125px;
+    width: 400px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(123, 123, 123, 0.529);
+    border-radius: 10px;
+    border: 10px outset rgba(0, 0, 0, 0.736);
+}
+.noticiero:hover{
+    width: 900px;
+}
+.noti{
+    height: 100%;
+    transition: 0.2s;
+    flex-basis: 100px;
+    overflow: hidden;
+}
+.imagennotisin{
+    background-image: url(imagenesanime/shingeki.png);
+    height: 300px;
+    background-size: auto 100%;
+    width: 100%;
+}
+.imagennotimeg{
+    background-image: url(imagenesanime/Megumi.png);
+    height: 300px;
+    background-size:   auto 100% ;
+    width: auto;
+}
+.imagennotikum{
+    background-image: url(imagenesanime/kuma.png);
+    height: 300px;
+    background-size:   auto 100% ;
+    width: auto;
+}
+.imagennotione{
+    background-image: url(imagenesanime/lufi.png);
+    height: 300px;
+    background-size:   auto 100% ;
+    width: auto;
+}
+
+.noti:hover{
+    flex-basis:600px;
+    border: solid white;
+}
+.noti:hover div{
+    background-size:  100% auto;
+}
+.noticialetra{
+    color: white;
+    font-family: fantasy;
+    font-size:20px ;
+}

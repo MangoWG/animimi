@@ -1,0 +1,20 @@
+.belle{
+    background-image: url("imagenesanime/belle.png");
+    background-size: auto 100%;
+    background-position: center;
+    background-color: bisque;
+}
+.eltiempocontigo{
+    background-image: url("imagenesanime/eltiempocontigo.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}
+.elreyciervo{
+    background-image: url("imagenesanime/elreyciervo.png");
+    background-size: auto 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(196, 231, 255);
+}

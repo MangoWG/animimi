@@ -1,0 +1,25 @@
+
+body{
+    font-family: fantasy;
+}
+table{
+    font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    background-color: rgba(245, 245, 220, 0.171);
+    text-shadow: none;
+    text-decoration: none;
+    font-weight: normal;
+}
+th{
+    font-size: 30px;
+    padding: 5px;
+}
+.nolik{
+ text-decoration: none;
+ color: black;
+}
+td{
+    padding: 2px;
+    padding-left: 5px;
+}

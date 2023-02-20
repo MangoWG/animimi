@@ -1,0 +1,30 @@
+.fondo{
+    background-image: none;
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    background: radial-gradient(rgb(255, 0, 195),rgb(122, 0, 118));
+}
+.buscabusca{
+    margin: 75px;
+    position: absolute;
+    width: 50%;
+    height: 50px;
+    border-radius: 20px;
+    outline:none;
+    padding: 0 20px;
+    border: 1px solid silver;
+}
+.inputdesesion{
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    outline:none;
+    padding: 0 20px;
+    border: 1px solid silver;
+}
+.listoboton{
+    height: 70px;
+    width: 100px;
+}
